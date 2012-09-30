@@ -1,0 +1,11 @@
+
+http://newestbie.github.com/atom.xml
+http://newestbie.github.com/sitemap.txt
+http://newestbie.github.com/archive.html
+http://newestbie.github.com/pages.html
+http://newestbie.github.com/categories.html
+http://newestbie.github.com/tags.html
+http://newestbie.github.com/index.html
+
+http://newestbie.github.com/2012/09/30/new
+http://newestbie.github.com/lessons/2011/12/29/jekyll-introduction
